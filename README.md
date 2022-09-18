@@ -1,4 +1,9 @@
-![](https://i.imgur.com/xG74tOh.png)
+# API para registro de transações com produtos
+
+- Criada para o resolver o terceiro desafio do curso de desenvolvimento backend da Cubos Academy
+_______________
+
+# Demanda
 
 # Desafio Módulo 3 - Backend
 
@@ -766,3 +771,6 @@ Link do deploy da API somente para testes: [ link](https://desafio-backend-03-di
 **LEMBRE-SE**: Feito é melhor que perfeito!!!
 
 ###### tags: `back-end` `módulo 3` `nodeJS` `PostgreSQL` `API REST` `desafio`
+
+______
+![](https://i.imgur.com/xG74tOh.png)
